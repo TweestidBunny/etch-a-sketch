@@ -28,7 +28,6 @@ body {
   height: 640px;
   border: 1px solid gray;
   margin: 0 auto;
-  /* align-content: center; */
 }
 
 .column {
@@ -44,10 +43,6 @@ body {
 .row {
   flex: 1;
   border-right: 1px solid gray;
-}
-
-.row:hover {
-  background-color: #ffc300;
 }
 
 .row:last-of-type {
