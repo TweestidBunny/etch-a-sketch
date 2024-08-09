@@ -51,6 +51,16 @@ body {
 
 button {
   display: block;
-  padding: .2rem 1rem;
+  background-color: #0000;
+  color: #ffb703;
+  border: 2px solid;
+  font-size: 1.5rem;
+  padding: .75rem 1.5rem;
   margin: 1rem auto 0;
+  border-radius: 1rem;
+  cursor: pointer;
+}
+
+button:hover {
+  color: #ffc30099;
 }
